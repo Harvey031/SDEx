@@ -5021,6 +5021,14 @@ html, body {
     margin-left: 26px;
   }
 
+  .modal-content1 img {
+    position: relative;
+    height: 220px;
+    width: 159px;
+    left: 39px;
+    bottom: 313px;
+}
+
 
   .texts0 {
     font-family: gundamtext;
@@ -5404,7 +5412,7 @@ html, body {
   }
 
 
-  
+
   
   
   
