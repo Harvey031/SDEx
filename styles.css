@@ -1,4 +1,7 @@
 body {
+
+
+
 overflow-x: hidden;
 margin: 0px;
 
@@ -4634,7 +4637,7 @@ bottom: 13px;
   font-family: gundamtext;
   position: relative;
   bottom: 362px;
-  left: 123px;
+  left: 99px;
   font-size: 16px;
 }
 
@@ -4643,7 +4646,7 @@ bottom: 13px;
   position: relative;
   font-size: 32px;
   bottom: 413px;
-  left: 82px;
+  left: 46px;
   -webkit-text-stroke: 1px #333333;
 }
 
@@ -4675,7 +4678,7 @@ bottom: 13px;
   font-size: 19px;
   position: relative;
   bottom: 812px;
-  left: 65px;
+  left: 21px;
   font-family: sans-serif;
   width: 309px;
   background-color: rgba(255, 255, 255, 0.5);
@@ -4989,218 +4992,1801 @@ bottom: 13px;
 
 .modal-content1 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 62%;
-  height: 39%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
+
 
 .modal-content2 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
 
-.modal-content13 {
-  background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
-  border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
-  overflow: hidden;
-  margin-left: 43px;
+
+.modal2-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
 }
+
+
+.modal2-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal2-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal2-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal2-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal2-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal2-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal2-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content2 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+}
+
+
+
+.modal-content3 {
+  background-color: rgb(254, 254, 254);
+  margin: 17% auto;
+  padding: 21px;
+  border: 1px solid rgb(136, 136, 136);
+  width: 79%;
+  height: 67%;
+  overflow: hidden;
+  margin-left: 26px;
+}
+
+
+
+
+.modal3-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal3-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal3-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal3-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal3-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal3-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal3-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal3-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content3 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+}
+
+
 
 .modal-content4 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
+}
+
+
+
+.modal4-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal4-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal4-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal4-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal4-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal4-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal4-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal4-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content4 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
 }
 
 .modal-content5 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
 
 
-.modal-content6 {
-  background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
-  border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
-  overflow: hidden;
-  margin-left: 43px;
+
+
+.modal5-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
 }
 
+
+
+
+.modal5-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal5-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal5-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal5-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal5-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal5-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal5-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content5 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
+}
 
 .modal-content7 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
+
+
+
+
+.modal6-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal6-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal6-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal6-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal6-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal6-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal6-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal6-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content6 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px; 
+}
+
+.modal-content7 {
+  background-color: rgb(254, 254, 254);
+  margin: 17% auto;
+  padding: 21px;
+  border: 1px solid rgb(136, 136, 136);
+  width: 79%;
+  height: 67%;
+  overflow: hidden;
+  margin-left: 26px;
+}
+
+
+
+.modal7-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal7-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal7-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal7-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal7-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal7-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal7-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal7-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content7 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px; 
+
+}
+
 
 .modal-content8 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
+
+
+
+.modal8-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal8-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal8-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal8-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal8-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal8-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal8-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal8-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content8 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px; 
+   
+}
+
 
 .modal-content9 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
 
 
+.modal9-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal9-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal9-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal9-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal9-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal9-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal9-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal9-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content9 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
+}
+
 .modal-content10 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
+}
+
+
+
+
+.modal10-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal10-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal10-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal10-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal10-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal10-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal10-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal10-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content10 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
 }
 
 .modal-content11 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
+}
+
+
+
+
+.modal11-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal11-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal11-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal11-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal11-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal11-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal11-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal11-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content11 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
 }
 
 .modal-content12 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
+
+
+
+
+.modal12-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal12-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal12-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal12-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal12-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal12-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal12-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal12-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content12 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
+}
+
 .modal-content13 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
+
+
+
+.modal13-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal13-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal13-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal13-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal13-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal13-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal13-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal13-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content13 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
+}
+
 .modal-content14 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
+
+
+
+.modal14-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal14-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal14-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal14-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal14-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal14-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal14-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal14-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
 .modal-content15 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
+
+
+
+
+.modal15-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal15-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal15-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal15-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal15-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal15-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal15-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal15-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content15 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
+}
+
+
+
+
+
+
+.modal16-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal16-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal16-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal16-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal16-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal16-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal16-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal16-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content16 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
+}
+
 .modal-content16 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
+
+
 .modal-content17 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
+}
+
+
+
+.modal17-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal17-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal17-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal17-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal17-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal17-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal17-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal17-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content17 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
 }
 
 .modal-content18 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
+
+
+
+
+.modal18-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal18-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal18-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal18-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal18-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal18-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal18-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal18-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content18 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
+}
+
 .modal-content19 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
 }
+ 
+
+.modal19-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal19-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal19-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal19-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal19-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal19-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal19-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal19-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content19 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
+}
+
 .modal-content20 {
   background-color: rgb(254, 254, 254);
-  margin: 15% auto;
-  padding: 20px;
+  margin: 17% auto;
+  padding: 21px;
   border: 1px solid rgb(136, 136, 136);
-  width: 56%;
-  height: 29%;
+  width: 79%;
+  height: 67%;
   overflow: hidden;
-  margin-left: 43px;
+  margin-left: 26px;
+}
+
+
+
+.modal20-text1 {
+  font-family: gundamtext;
+  position: relative;
+  left: 162px;
+  color: gray;
+  bottom: -57px;
+}
+
+
+
+
+.modal20-text2 {
+  position: relative;
+  font-family: gundamtext2;
+  color: red;
+  left: 163px;
+  bottom: -45px;
+  font-size: 11px;
+}
+
+
+.modal20-text3 {
+  font-family: 'gundamtext';
+  position: relative;
+  top: 32px;
+  color: gray;
+  left: 164px;
+}
+
+.modal20-text4 {
+  position: relative;
+  font-family: OpenSans;
+  top: 21px;
+  left: 165px;
+  font-size: 12px;
+}
+
+
+.modal20-text5 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: -10px;
+  left: 166px;
+}
+
+.modal20-text6 {
+  position: relative;
+  font-family: OpenSans;
+  top: 1px;
+  left: 167px;
+  font-size: 13px;
+}
+
+.modal20-text7 {
+  position: relative;
+  font-family: gundamtext;
+  color: gray;
+  bottom: 1px;
+  left: 169px;
+  font-size: 12px;
+}
+
+
+.modal20-text8 {
+  position: relative;
+  font-family: OpenSans;
+  bottom: 13px;
+  left: 168px;
+  width: 10px;
+}
+
+.modal-content20 img {
+  position: relative;
+  height: 237px;
+  width: 169px;
+  left: -13px;
+  bottom: 310px;
+
 }
 
 .line2 {
