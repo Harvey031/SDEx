@@ -4561,6 +4561,13 @@ bottom: 13px;
       bottom: -48px;
   }
 
+
+  .body {
+
+
+    overflow-x: hidden;
+  }
+
   .container3 {
     background-image: url(model/Rectangle-4.svg);
     background-repeat: no-repeat;
