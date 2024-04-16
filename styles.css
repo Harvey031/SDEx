@@ -4551,12 +4551,11 @@ bottom: 13px;
 
   @media only screen and (max-width: 430px) {
 
-
     .logo img {
-      height: 89px;
+      height: 53px;
       margin-top: 30px;
       position: relative;
-      left: 65px;
+      left: 78px;
       bottom: -48px;
   }
 
@@ -4574,13 +4573,13 @@ bottom: 13px;
     height: 8275px;
 }
 
-  .line {
-    height: 2px;
-    width: 39%;
-    background-color: black;
-    position: relative;
-    left: 226px;
-    bottom: 2px;
+.line {
+  height: 2px;
+  width: 39%;
+  background-color: black;
+  position: relative;
+  left: 186px;
+  bottom: -15px;
 }
 
 .collect-them-all {
@@ -4609,43 +4608,33 @@ bottom: 13px;
   bottom: 347px;
 }
 
-
 .headermodel img {
-  height: 480px;
+  height: 422px;
   position: relative;
-  left: 69px;
-  bottom: -186px;
+  left: -49px;
+  bottom: -115px;
   max-width: 1440px;
   margin: auto;
 }
-
-.headermodel img {
-  height: 480px;
-  position: relative;
-  left: -32px;
-  bottom: -186px;
-  max-width: 1440px;
-  margin: auto;
-}
-
 
 .textheading-1 {
   font-family: gundamtext;
   position: relative;
-  bottom: 331px;
-  left: 98px;
-  font-size: 26px;
+  bottom: 362px;
+  left: 123px;
+  font-size: 16px;
 }
-
 
 .textheading-2 {
   font-family: gundamtext;
   position: relative;
-  font-size: 48px;
-  bottom: 409px;
-  left: 46px;
+  font-size: 32px;
+  bottom: 413px;
+  left: 82px;
   -webkit-text-stroke: 1px #333333;
 }
+
+
 
 .textheading-3 {
   font-family: gundamtext;
@@ -4659,23 +4648,22 @@ bottom: 13px;
 }
 
 .model2 img {
-  height: 556px;
+  height: 545px;
   position: relative;
-  bottom: 73px;
-  right: 5px;
+  bottom: 229px;
+  right: 40px;
   max-width: 1440px;
   z-index: -1;
   opacity: 0.5;
 }
 
-
 .info {
   font-size: 19px;
   position: relative;
-  bottom: 714px;
-  left: 55px;
+  bottom: 812px;
+  left: 65px;
   font-family: sans-serif;
-  width: 341px;
+  width: 309px;
   background-color: rgba(255, 255, 255, 0.5);
 }
 
@@ -5282,11 +5270,11 @@ bottom: 13px;
 
 .line2 {
   height: 2px;
-  width: 41%;
+  width: 29%;
   background-color: black;
-  top: 276px;
+  top: 252px;
   position: relative;
-  right: -676px;
+  right: -318px;
 }
 
 .collect-them-all {
