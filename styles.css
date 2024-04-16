@@ -1,6 +1,5 @@
 body {
 
-overflow-x: hidden;
 margin: 0px;
 
 
@@ -3813,10 +3812,10 @@ bottom: 13px;
          bottom: -48px; 
     }
 
-    .body {
-
-
+    html, body {
+           
       overflow-x: hidden;
+
     }
    
     .line {
@@ -4551,6 +4550,12 @@ bottom: 13px;
 
   @media only screen and (max-width: 430px) {
 
+     html, body {
+
+         overflow-x: hidden;
+
+     }
+
     .logo img {
       height: 53px;
       margin-top: 30px;
@@ -4560,17 +4565,26 @@ bottom: 13px;
   }
 
 
-  .body {
-
-    overflow-x: hidden;
+  .blur-image {
+    height: 1612px;
+    background-image: url(model/sdex_aerial4.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    filter: blur(11px);
+    position: relative;
+    bottom: 5821px;
+    z-index: -1;
+    background-size: 1376px;
+    right: 5px;
   }
 
   .container3 {
     background-image: url(model/Rectangle-4.svg);
     background-repeat: no-repeat;
-    background-size: 5003px;
+    background-size: 4680px;
     margin: -96px;
-    height: 8275px;
+    height: 7891px;
+    width: 512px;
 }
 
 .line {
@@ -4607,14 +4621,13 @@ bottom: 13px;
   left: 123px;
   bottom: 347px;
 }
-
 .headermodel img {
-  height: 422px;
+  height: 438px;
   position: relative;
-  left: -49px;
+  left: 9px;
   bottom: -115px;
-  max-width: 1440px;
   margin: auto;
+  width: 392px;
 }
 
 .textheading-1 {
@@ -4648,13 +4661,14 @@ bottom: 13px;
 }
 
 .model2 img {
-  height: 545px;
+  height: 446px;
   position: relative;
   bottom: 229px;
-  right: 40px;
+  right: 49px;
   max-width: 1440px;
   z-index: -1;
   opacity: 0.5;
+ 
 }
 
 .info {
@@ -5189,6 +5203,15 @@ bottom: 13px;
   margin-left: 43px;
 }
 
+.line2 {
+  height: 2px;
+  width: 24%;
+  background-color: black;
+  top: 251px;
+  position: relative;
+  right: -322px;
+}
+
 
   }
 
@@ -5268,14 +5291,6 @@ bottom: 13px;
   top: 325px;
 }
 
-.line2 {
-  height: 2px;
-  width: 29%;
-  background-color: black;
-  top: 252px;
-  position: relative;
-  right: -318px;
-}
 
 .collect-them-all {
   left: 732px;
