@@ -4558,6 +4558,12 @@ html, body {
            overflow-x: hidden;
   
        }
+
+       .script {
+
+          display: none;
+
+       }
   
       .logo img {
         height: 53px;
@@ -5098,7 +5104,6 @@ html, body {
 
 
 /* ----------------------------------------------- */
-  
   
   .modal-content2 {
     background-color: rgb(254, 254, 254);
