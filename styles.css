@@ -5021,13 +5021,15 @@ html, body {
     margin-left: 26px;
   }
 
-  .modal-content1 img {
-    position: relative;
-    height: 220px;
-    width: 159px;
-    left: 39px;
-    bottom: 313px;
+  
+.modal-content1 img {
+  position: relative;
+  height: 210px;
+  width: 170px;
+  left: 48px;
+  bottom: 237px;
 }
+  
 
 
   .texts0 {
