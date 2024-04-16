@@ -1,7 +1,6 @@
 body {
 
 overflow-x: hidden;
-
 margin: 0px;
 
 
@@ -4564,7 +4563,6 @@ bottom: 13px;
 
   .body {
 
-
     overflow-x: hidden;
   }
 
@@ -5215,6 +5213,12 @@ bottom: 13px;
       position: relative;
       left: 249px;
       top: 63px;
+  }
+
+  .body {
+
+
+    overflow-x: hidden;
   }
 
   .line {
